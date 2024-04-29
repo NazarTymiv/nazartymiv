@@ -28,6 +28,10 @@
   <a href="https://htmx.org/" target="_blank" rel="noreferrer">
       <img src="https://plugins.jetbrains.com/files/20588/418328/icon/pluginIcon.svg" alt="htmx" width="40" height="40">
   </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40">
+  </a>
 </p>
 
 <h2 align="left">Github Profile Trophy</h2>
