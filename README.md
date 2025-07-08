@@ -7,8 +7,6 @@
 
 
 
-- 🔭 I’m currently working on [Jobify](https://github.com/NazarTymiv/jobify)
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nazar-tymiv.netlify.app/)
 
 - 📫 How to reach me **nazartumiv@gmail.com**
