@@ -5,7 +5,7 @@
 
 <img align="right" width="400px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="img" />
 
-
+- Currently working on [Decster.ai](https://decster.ai/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nazar-tymiv.netlify.app/)
 
